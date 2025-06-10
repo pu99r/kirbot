@@ -38,8 +38,8 @@ const MAIN_MENU = {
 };
 
 // Destination links
-const MANAGER_LINK = 'https://t.me/tikhomirovkir';
-const CHANNEL_LINK = 'https://t.me/shnurok_shipping';
+const MANAGER_LINK = 'https://t.me/rentino_support';
+const CHANNEL_LINK = 'https://t.me/rentino_ads';
 
 const managerMarkup = {
   reply_markup: {
